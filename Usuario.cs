@@ -25,3 +25,8 @@ public class Usuario
         correo = nuevoCorreo;
     }
 }
+public string ObtenerCorreo()
+{
+    return correo;
+}
+
